@@ -1,0 +1,15 @@
+name: "Add a cool badge to README.md"
+description: "Find an open source badge and add it to our README!"
+title: "Add a cool badge to README.md"
+labels: ["good first issue"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Welcome!
+        Want to make our repo look cooler? Your task is to:
+        1. Go to [shields.io](https://shields.io/) and find a cool open source badge.
+        2. Fork this repo and add the badge markdown to the top of `README.md`.
+        3. Submit a Pull Request!
+        
+        Once merged, you'll earn your Awesome OSS Contributor Badge!

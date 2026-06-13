@@ -1,0 +1,16 @@
+name: "Add your name to CONTRIBUTORS.md"
+description: "A simple task to get you started! Add your name to the contributors list."
+title: "Add your name to CONTRIBUTORS.md"
+labels: ["good first issue"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Welcome! 
+        This is a great issue for beginners. Your task is to:
+        1. Fork the repo.
+        2. Create a new file called `CONTRIBUTORS.md` if it doesn't exist.
+        3. Add your name to the file!
+        4. Submit a Pull Request.
+        
+        Once merged, you'll earn your Awesome OSS Contributor Badge!
